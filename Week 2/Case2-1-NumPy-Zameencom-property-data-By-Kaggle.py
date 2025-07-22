@@ -26,7 +26,6 @@ print("Zameen.com Price pow: " , np.power(price,price))
 print("Zameen.com Price abs: " , np.abs(price))
 
 
-
 # Perform basic arithmetic operations
 addition = long + lat
 subtraction = long - lat
